@@ -8,3 +8,7 @@ With the knowledge i gained from this lesson, i will be performing the following
 * CONVERSION OF TEMPERATURE FROM DEGREE CELCIUS TO FARENHEIT.
 
 * CALCULATING SIMPLE INTEREST FOR A SET OF VALUES REPRESENTING PRINCIPAL, NO OF YEARS AND RATE OF INTEREST.
+
+AUTHOR NAME: Adetogun Samuel Abidemi
+
+AUTHOR EMAIL: abidemiadetogun@gmail.com
