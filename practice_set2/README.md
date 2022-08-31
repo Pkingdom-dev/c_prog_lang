@@ -16,3 +16,6 @@ I came to realise that we have different types of instruction in C such as:
 Fron the knwoledge gained I will be peforming a task:
 
 * By writing a C program to check whether a number is divisible by 97 through the user input.
+
+Author Name: Adetogun Samuel Abidemi
+Author Email: abidemiadetogun@gmail.com
